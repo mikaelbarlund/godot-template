@@ -1,1 +1,1 @@
-# <The name of the game>
+# The name of the game
