@@ -1,9 +1,9 @@
 [gd_scene load_steps=5 format=3 uid="uid://bw6fsf6vdmyf2"]
 
-[ext_resource type="Script" path="res://menu/main_menu.gd" id="1_qm4hq"]
-[ext_resource type="Script" path="res://menu/SoundToggle.gd" id="2_6bova"]
-[ext_resource type="Script" path="res://menu/Play.gd" id="2_urv4f"]
-[ext_resource type="Script" path="res://menu/Quit.gd" id="3_jlbm4"]
+[ext_resource type="Script" path="res://main/menu/main_menu.gd" id="1_qm4hq"]
+[ext_resource type="Script" path="res://main/menu/SoundToggle.gd" id="2_6bova"]
+[ext_resource type="Script" path="res://main/menu/Play.gd" id="2_urv4f"]
+[ext_resource type="Script" path="res://main/menu/Quit.gd" id="3_jlbm4"]
 
 [node name="MainMenu" type="Control"]
 layout_mode = 3

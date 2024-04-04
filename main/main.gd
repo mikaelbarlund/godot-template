@@ -1,6 +1,6 @@
 extends Node2D
 
-var main_menu_scene: PackedScene = load("res://menu/main_menu.tscn")
+var main_menu_scene: PackedScene = load("res://main/menu/main_menu.tscn")
 
 var main_menu
 
